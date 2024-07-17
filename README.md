@@ -1,0 +1,1 @@
+Creating a Webapp called Learning Together for Visual impaired people,Hearing impaired people and Mobility impaired people to foster their education. This webapp will help their certifications in education by registering under a school but learning in the comfort of their home
